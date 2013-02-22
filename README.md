@@ -1,3 +1,7 @@
+### Description:
+
+My personal tmux config.
+
 ### Installation:
 
 Clone repo:
