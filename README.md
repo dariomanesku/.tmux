@@ -12,3 +12,7 @@ Setup:
 
 	make
 	make install
+	cd tmux-mem-cpu-load
+	cmake .
+	make
+	sudo make install
